@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\final_exam\bin\Debug\final_exam.exe.config
+C:\Users\student\source\repos\final_exam\bin\Debug\final_exam.exe
+C:\Users\student\source\repos\final_exam\bin\Debug\final_exam.pdb
+C:\Users\student\source\repos\final_exam\obj\Debug\final_exam.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\final_exam\obj\Debug\final_exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\final_exam\obj\Debug\final_exam.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\final_exam\obj\Debug\final_exam.exe
+C:\Users\student\source\repos\final_exam\obj\Debug\final_exam.pdb

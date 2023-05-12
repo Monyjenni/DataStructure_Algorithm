@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\P2\bin\Debug\P2.exe.config
+C:\Users\student\source\repos\P2\bin\Debug\P2.exe
+C:\Users\student\source\repos\P2\bin\Debug\P2.pdb
+C:\Users\student\source\repos\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\P2\obj\Debug\P2.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\P2\obj\Debug\P2.exe
+C:\Users\student\source\repos\P2\obj\Debug\P2.pdb

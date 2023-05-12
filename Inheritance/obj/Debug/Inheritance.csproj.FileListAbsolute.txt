@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\student\source\repos\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\student\source\repos\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\student\source\repos\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\student\source\repos\Inheritance\obj\Debug\Inheritance.pdb

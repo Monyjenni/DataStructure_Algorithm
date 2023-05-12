@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\P3 testing\bin\Debug\P3 testing.exe.config
+C:\Users\student\source\repos\P3 testing\bin\Debug\P3 testing.exe
+C:\Users\student\source\repos\P3 testing\bin\Debug\P3 testing.pdb
+C:\Users\student\source\repos\P3 testing\obj\Debug\P3 testing.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\P3 testing\obj\Debug\P3 testing.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\P3 testing\obj\Debug\P3 testing.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\P3 testing\obj\Debug\P3 testing.exe
+C:\Users\student\source\repos\P3 testing\obj\Debug\P3 testing.pdb

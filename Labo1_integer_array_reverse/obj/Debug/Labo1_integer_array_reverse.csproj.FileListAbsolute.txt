@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Labo1_integer_array_reverse\bin\Debug\Labo1_integer_array_reverse.exe.config
+C:\Users\student\source\repos\Labo1_integer_array_reverse\bin\Debug\Labo1_integer_array_reverse.exe
+C:\Users\student\source\repos\Labo1_integer_array_reverse\bin\Debug\Labo1_integer_array_reverse.pdb
+C:\Users\student\source\repos\Labo1_integer_array_reverse\obj\Debug\Labo1_integer_array_reverse.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Labo1_integer_array_reverse\obj\Debug\Labo1_integer_array_reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Labo1_integer_array_reverse\obj\Debug\Labo1_integer_array_reverse.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Labo1_integer_array_reverse\obj\Debug\Labo1_integer_array_reverse.exe
+C:\Users\student\source\repos\Labo1_integer_array_reverse\obj\Debug\Labo1_integer_array_reverse.pdb

@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.exe.config
+C:\Users\student\source\repos\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.exe
+C:\Users\student\source\repos\RecursiveFibonacci\bin\Debug\RecursiveFibonacci.pdb
+C:\Users\student\source\repos\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.exe
+C:\Users\student\source\repos\RecursiveFibonacci\obj\Debug\RecursiveFibonacci.pdb

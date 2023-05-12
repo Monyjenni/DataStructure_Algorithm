@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Relearn1\bin\Release\Relearn1.exe.config
+C:\Users\student\source\repos\Relearn1\bin\Release\Relearn1.exe
+C:\Users\student\source\repos\Relearn1\bin\Release\Relearn1.pdb
+C:\Users\student\source\repos\Relearn1\obj\Release\Relearn1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Relearn1\obj\Release\Relearn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\Relearn1\obj\Release\Relearn1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Relearn1\obj\Release\Relearn1.exe
+C:\Users\student\source\repos\Relearn1\obj\Release\Relearn1.pdb

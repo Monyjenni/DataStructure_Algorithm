@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\RecursiveBinarySearch\bin\Debug\RecursiveBinarySearch.exe.config
+C:\Users\student\source\repos\RecursiveBinarySearch\bin\Debug\RecursiveBinarySearch.exe
+C:\Users\student\source\repos\RecursiveBinarySearch\bin\Debug\RecursiveBinarySearch.pdb
+C:\Users\student\source\repos\RecursiveBinarySearch\obj\Debug\RecursiveBinarySearch.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\RecursiveBinarySearch\obj\Debug\RecursiveBinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\RecursiveBinarySearch\obj\Debug\RecursiveBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RecursiveBinarySearch\obj\Debug\RecursiveBinarySearch.exe
+C:\Users\student\source\repos\RecursiveBinarySearch\obj\Debug\RecursiveBinarySearch.pdb

@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\GCDAlgo\bin\Debug\GCDAlgo.exe.config
+C:\Users\student\source\repos\GCDAlgo\bin\Debug\GCDAlgo.exe
+C:\Users\student\source\repos\GCDAlgo\bin\Debug\GCDAlgo.pdb
+C:\Users\student\source\repos\GCDAlgo\obj\Debug\GCDAlgo.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\GCDAlgo\obj\Debug\GCDAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\GCDAlgo\obj\Debug\GCDAlgo.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GCDAlgo\obj\Debug\GCDAlgo.exe
+C:\Users\student\source\repos\GCDAlgo\obj\Debug\GCDAlgo.pdb

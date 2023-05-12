@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\BubbleSortAsending\bin\Debug\BubbleSortAsending.exe.config
+C:\Users\student\source\repos\BubbleSortAsending\bin\Debug\BubbleSortAsending.exe
+C:\Users\student\source\repos\BubbleSortAsending\bin\Debug\BubbleSortAsending.pdb
+C:\Users\student\source\repos\BubbleSortAsending\obj\Debug\BubbleSortAsending.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\BubbleSortAsending\obj\Debug\BubbleSortAsending.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\BubbleSortAsending\obj\Debug\BubbleSortAsending.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\BubbleSortAsending\obj\Debug\BubbleSortAsending.exe
+C:\Users\student\source\repos\BubbleSortAsending\obj\Debug\BubbleSortAsending.pdb
